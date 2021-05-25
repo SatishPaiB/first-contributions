@@ -18,7 +18,7 @@ If you're making changes to a translation, please request a review from our prev
         </td>
         <td>
            <a href="../translations/README.mr.md">मराठी</a>
-        </td>	
+        </td>
 	<td>
            <a href="../translations/README.hne.md">छत्तीसगढ़ी</a>
         </td>    
@@ -463,8 +463,7 @@ If you're making changes to a translation, please request a review from our prev
         </td>
         <td>
             <a href="https://github.com/mikowhy">mikowhy</a>
+            mikowhy
         </td>
     </tr>
  </table>
-    
-
